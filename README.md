@@ -16,6 +16,7 @@
  
 ## 计算机其他
 * [《生物计算机 —日本的下一代计算机》](https://book.douban.com/subject/4288595/) 
+* [编码](https://book.douban.com/subject/4822685/)
  
 # 其他自然科学
  * [《给孩子讲量子力学》](https://book.douban.com/subject/26953160/) 
