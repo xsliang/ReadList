@@ -1,6 +1,7 @@
 <h1>我的阅读列表</h1>
 **更新于20180806**
 **更新于20200514**
+**更新于20200816**
 
 * [计算机](https://github.com/xsliang/ReadList/blob/master/README.md#计算机)
 	* [.NET](https://github.com/xsliang/ReadList/blob/master/README.md#队列)
@@ -16,7 +17,7 @@
  
 ## 计算机其他
 * [《生物计算机 —日本的下一代计算机》](https://book.douban.com/subject/4288595/) 
-* [编码](https://book.douban.com/subject/4822685/)
+* [《编码》](https://book.douban.com/subject/4822685/)
  
 # 其他自然科学
  * [《给孩子讲量子力学》](https://book.douban.com/subject/26953160/) 
