@@ -8,7 +8,7 @@
 
 
 * [计算机](https://github.com/xsliang/ReadList/blob/master/README.md#计算机)
-	* [.NET](https://github.com/xsliang/ReadList/blob/master/README.md#.NET)
+	* [DotNet](https://github.com/xsliang/ReadList/blob/master/README.md#DotNet)
 	* [Java](https://github.com/xsliang/ReadList/blob/master/README.md#Java)
 * [其他自然科学](https://github.com/xsliang/ReadList/blob/master/README.md#其他自然科学)	
 * [英语](https://github.com/xsliang/ReadList/blob/master/README.md#英语)	
@@ -17,7 +17,7 @@
 * [日语](https://github.com/xsliang/ReadList/blob/master/README.md#日语)	
 
 # 计算机
-## .NET
+## DotNet
  * [《.NET大局观》](https://book.douban.com/subject/1933068/) 
  
 ## Java
