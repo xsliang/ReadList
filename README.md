@@ -6,6 +6,8 @@
 
 **更新于20200816**
 
+**更新于20201223**
+
 
 * [计算机](https://github.com/xsliang/ReadList/blob/master/README.md#计算机)
 	* [DotNet](https://github.com/xsliang/ReadList/blob/master/README.md#DotNet)
@@ -26,6 +28,7 @@
 ## 计算机其他
 * [《生物计算机 —日本的下一代计算机》](https://book.douban.com/subject/4288595/) 
 * [《编码》](https://book.douban.com/subject/4822685/)
+* [《程序员的数学》](https://book.douban.com/subject/19949020/)
  
 # 其他自然科学
  * [《给孩子讲量子力学》](https://book.douban.com/subject/26953160/) 
@@ -37,6 +40,7 @@
  * [《冒死记录》](https://book.douban.com/subject/2216512/) 
  * [《天堂向左，深圳往右》](https://book.douban.com/subject/1048931/) 
  * [《红色海洋》](https://book.douban.com/subject/1198312/) 
+ * [《我们》](https://book.douban.com/subject/25838428/) 
 
 ## 中文杂书
  * [《省钱妙招1000例》](https://book.douban.com/subject/2057948/)  
