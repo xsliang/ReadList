@@ -8,7 +8,7 @@
 
 
 * [计算机](https://github.com/xsliang/ReadList/blob/master/README.md#计算机)
-	* [.NET](https://github.com/xsliang/ReadList/blob/master/README.md#队列)
+	* [.NET](https://github.com/xsliang/ReadList/blob/master/README.md#.NET)
 	* [Java](https://github.com/xsliang/ReadList/blob/master/README.md#Java)
 * [其他自然科学](https://github.com/xsliang/ReadList/blob/master/README.md#其他自然科学)	
 * [英语](https://github.com/xsliang/ReadList/blob/master/README.md#英语)	
