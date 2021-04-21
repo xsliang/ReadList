@@ -17,8 +17,8 @@
 	* [中文小说](https://github.com/xsliang/ReadList/blob/master/README.md#中文小说)
 	* [中文杂书](https://github.com/xsliang/ReadList/blob/master/README.md#中文杂书)
 * [英语](https://github.com/xsliang/ReadList/blob/master/README.md#英语)	
-	* [.英语小说](https://github.com/xsliang/ReadList/blob/master/README.md#英语小说)
-	* [.英语学习](https://github.com/xsliang/ReadList/blob/master/README.md#英语学习)
+* [.英语小说](https://github.com/xsliang/ReadList/blob/master/README.md#英语小说)
+* [.英语学习](https://github.com/xsliang/ReadList/blob/master/README.md#英语学习)
 * [日语](https://github.com/xsliang/ReadList/blob/master/README.md#日语)	
 
 # 计算机
@@ -26,16 +26,23 @@
  * [《.NET大局观》](https://book.douban.com/subject/1933068/) 
  
 ## Java
- * []()  
+ * [Java夜未眠](https://book.douban.com/subject/1106248/)  
  
 ## 计算机其他
 * [《生物计算机 —日本的下一代计算机》](https://book.douban.com/subject/4288595/) 
 * [《编码》](https://book.douban.com/subject/4822685/)
 * [《程序员的数学》](https://book.douban.com/subject/19949020/)
+* [《Borland传奇》](https://book.douban.com/subject/1106304/)
+* [最新XML入门与应用](https://book.douban.com/subject/1093242/)
+* 
  
 # 其他自然科学
  * [《给孩子讲量子力学》](https://book.douban.com/subject/26953160/) 
  * [《上帝掷骰子吗？》](https://book.douban.com/subject/6434486/) 
+ * [虫虫的世界/小爱因斯坦神奇星球大百科](https://book.douban.com/subject/34803969/)
+ * [自然科学绘本系列 鸟（套装共3册）让孩子爱上自然的科普绘本 蒲蒲兰绘本](https://book.douban.com/subject/30635554/)
+ * [昆虫记](https://book.douban.com/subject/34436582/)
+ * 
 
 # 中文其他
 ## 中文小说
@@ -52,6 +59,12 @@
  * [《魔鬼经济学1》](https://book.douban.com/subject/1676611/) 
  * [《沉默的羔羊》](https://book.douban.com/subject/21371465/) 
  * [《冰山在融化》](https://book.douban.com/subject/1861312/) 
+ * [《向上生长》](https://book.douban.com/subject/35060315/)
+ * 
+ 
+## 童书（亲子阅读所以也算我读过了：））
+ * [培养宝宝情商的AR故事书（10本）](https://book.douban.com/subject/30766834/)
+ * [洞洞里](https://book.douban.com/subject/27186751/)
  
 # 英语
 ## 英语小说
