@@ -8,6 +8,8 @@
 
 **更新于20201223**
 
+**更新于20210421**
+
 
 * [计算机](https://github.com/xsliang/ReadList/blob/master/README.md#计算机)
 	* [DotNet](https://github.com/xsliang/ReadList/blob/master/README.md#DotNet)
@@ -16,6 +18,7 @@
 * [中文其他](https://github.com/xsliang/ReadList/blob/master/README.md#中文其他)
 	* [中文小说](https://github.com/xsliang/ReadList/blob/master/README.md#中文小说)
 	* [中文杂书](https://github.com/xsliang/ReadList/blob/master/README.md#中文杂书)
+	* [童书](https://github.com/xsliang/ReadList/blob/master/README.md#童书)
 * [英语](https://github.com/xsliang/ReadList/blob/master/README.md#英语)	
 * [.英语小说](https://github.com/xsliang/ReadList/blob/master/README.md#英语小说)
 * [.英语学习](https://github.com/xsliang/ReadList/blob/master/README.md#英语学习)
@@ -62,7 +65,8 @@
  * [《向上生长》](https://book.douban.com/subject/35060315/)
  * 
  
-## 童书（亲子阅读所以也算我读过了：））
+## 童书
+（亲子阅读所以也算我读过了：））
  * [培养宝宝情商的AR故事书（10本）](https://book.douban.com/subject/30766834/)
  * [洞洞里](https://book.douban.com/subject/27186751/)
  
