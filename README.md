@@ -36,7 +36,7 @@
 * [《编码》](https://book.douban.com/subject/4822685/)
 * [《程序员的数学》](https://book.douban.com/subject/19949020/)
 * [《Borland传奇》](https://book.douban.com/subject/1106304/)
-* [最新XML入门与应用](https://book.douban.com/subject/1093242/)
+* [《最新XML入门与应用》](https://book.douban.com/subject/1093242/)
 * 
  
 # 其他自然科学
