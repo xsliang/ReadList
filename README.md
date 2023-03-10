@@ -79,6 +79,7 @@
  * [《向上生长》](https://book.douban.com/subject/35060315/)
  * [《半小时漫画唐诗 》](https://book.douban.com/subject/33441524/)
  * [半小时漫画世界史](https://book.douban.com/subject/30191803/)
+ * [增广贤文](https://book.douban.com/subject/30724060/)
  
 ## 童书
 （亲子阅读所以也算我读过了：））
